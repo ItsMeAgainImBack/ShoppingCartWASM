@@ -1,2 +1,5 @@
 # ShoppingCartWASM
-Shopping cart written in NEXT js
+
+
+Template mínimo para o projeto
+https://github.com/jsakamoto/BlazorMinimumTemplates
